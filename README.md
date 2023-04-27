@@ -7,10 +7,10 @@
 ![](https://komarev.com/ghpvc/?username=your-github-arch1tect1)
 
 Карточка профиля: 
-[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=daniilshat&theme=solarized_dark)](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arch1tect1&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=daniilshat&theme=solarized_dark)](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arch1tect1&theme=solarized_dark)
 
 Статистика языков в репозиториях:
-![]([https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=daniilshat&theme=solarized_dark](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arch1tect1&theme=solarized_dark))
+![]([https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=daniilshat&theme=solarized_dark](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arch1tect1&theme=solarized_dark)
 
 Статистика профиля:
 ![]([https://github-profile-summary-cards.vercel.app/api/cards/stats?username=daniilshat&theme=solarized_dark](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=arch1tect1&theme=solarized_dark)
