@@ -4,22 +4,17 @@
 
 [![arch1tect's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=arch1tect&theme=dark)](https://leetcode.com/arch1tect/)
 
-![](https://komarev.com/ghpvc/?username=your-github-username)
+![](https://komarev.com/ghpvc/?username=your-github-arch1tect1)
 
 Карточка профиля: 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=daniilshat&theme=solarized_dark)
-
-Статистика языков в коммитах:
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=daniilshat&theme=solarized_dark)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=daniilshat&theme=solarized_dark)](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arch1tect1&theme=solarized_dark)
 
 Статистика языков в репозиториях:
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=daniilshat&theme=solarized_dark)
+![]([https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=daniilshat&theme=solarized_dark](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arch1tect1&theme=solarized_dark))
 
 Статистика профиля:
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=daniilshat&theme=solarized_dark)
+![]([https://github-profile-summary-cards.vercel.app/api/cards/stats?username=daniilshat&theme=solarized_dark](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=arch1tect1&theme=solarized_dark)
 
-Данные по коммитам за сутки:
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=daniilshat&theme=solarized_dark)
 
 <!--
 **arch1tect1/arch1tect1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
