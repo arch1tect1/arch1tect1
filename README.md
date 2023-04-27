@@ -6,11 +6,11 @@
 
 ![](https://komarev.com/ghpvc/?username=your-github-arch1tect1)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=daniilshat&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arch1tect1&theme=solarized_dark)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=daniilshat&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arch1tect1&theme=solarized_dark)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=daniilshat&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=arch1tect1&theme=solarized_dark)
 
 <!--
 **arch1tect1/arch1tect1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
