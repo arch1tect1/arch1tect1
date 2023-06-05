@@ -6,6 +6,9 @@
 
 ![Codewars](https://www.codewars.com/users/arch1tect1/badges/large)
 
-![](https://komarev.com/ghpvc/?username=your-github-arch1tect1)
+[](https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg)
+
+
+<!--![](https://komarev.com/ghpvc/?username=your-github-arch1tect1)-->
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=arch1tect1&theme=dark)
