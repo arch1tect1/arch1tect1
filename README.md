@@ -6,11 +6,9 @@
 
 <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>
+ height="40"/>
    <img src="https://github.com/devicons/devicon/blob/master/icons/sqlalchemy/sqlalchemy-original.svg" title="SQLAlchemy" alt="SQLAlchemy" width="40" height="40">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="Selenium" alt="Selenium" width="40" height="40"/>
-   <img src="https://github.com/devicons/devicon/raw/master/icons/pytest/pytest-original.svg" title="Pytest" alt ="Pytest" width="40" height="40"/>
-   <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" title="FastAPI" alt="FastAPI" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40">
 </div>
 
 <div>
@@ -19,7 +17,6 @@
    <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title= "Linux" alt="Linux" width="40" height="40"/>
    <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" title="Raspberry Pi" alt="Raspberry Pi" width="40" height="40"/>
    <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" title="Arduino" alt="Arduino" width="40" height="40"/>
-   <img src="https://github.com/devicons/devicon/blob/master/icons/fedora/fedora-original.svg" title="Fedora" alt="Fedora" width="40" height="40"/>
 </div>
 
 [![arch1tect's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=arch1tect&theme=dark)](https://leetcode.com/arch1tect/)
