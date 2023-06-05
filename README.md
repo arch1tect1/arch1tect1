@@ -26,4 +26,4 @@
 
 ![Codewars](https://www.codewars.com/users/arch1tect1/badges/large)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=arch1tect1&theme=white)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=arch1tect1&theme=dark)
