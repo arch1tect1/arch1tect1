@@ -4,18 +4,17 @@
 
 [![arch1tect's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=arch1tect&theme=dark)](https://leetcode.com/arch1tect/)
 
+![Codewars](https://github.r2v.ch/codewars?user=arch1tect1&stroke=COLOR)
+
 ![](https://komarev.com/ghpvc/?username=your-github-arch1tect1)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=arch1tect1&theme=dark)
 
-![Codewars](https://github.r2v.ch/codewars?user=arch1tect1&stroke=COLOR)
-
-<!--
 **arch1tect1/arch1tect1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on React project Unsplah images and 2D games on C++ and Raylib
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -23,4 +22,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+--
