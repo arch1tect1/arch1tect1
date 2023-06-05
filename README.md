@@ -6,10 +6,6 @@
 
 ![](https://komarev.com/ghpvc/?username=your-github-arch1tect1)
 
-``` ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arch1tect1&theme=dark) ```
-
-``` ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arch1tect1&theme=dark) ```
-
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=arch1tect1&theme=dark)
 
 ![Codewars](https://github.r2v.ch/codewars?user=arch1tect1&stroke=COLOR)
