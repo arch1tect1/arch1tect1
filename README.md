@@ -12,7 +12,7 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=arch1tect1&theme=dark)
 
-![](https://www.codewars.com/users/arch1tect1)
+![Codewars](https://github.r2v.ch/codewars?user=arch1tect1&stroke=COLOR)
 
 <!--
 **arch1tect1/arch1tect1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
