@@ -4,7 +4,7 @@
 
 [![arch1tect's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=arch1tect&theme=dark)](https://leetcode.com/arch1tect/)
 
-![Codewars](https://github.r2v.ch/codewars?user=arch1tect1&stroke=COLOR)
+![Codewars]([https://github.r2v.ch/codewars?user=arch1tect1&stroke=COLOR](https://www.codewars.com/users/arch1tect1/badges/large)
 
 ![](https://komarev.com/ghpvc/?username=your-github-arch1tect1)
 
