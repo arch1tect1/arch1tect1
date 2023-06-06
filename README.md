@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm <a href="#" target="_blank">Tamerlan</a> 
+<h1 align="center">Hi there, I'm <a>Tamerlan</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="left">I am self-taught programmer with a passion for learning and solving complex problems through code.</h3>
 
