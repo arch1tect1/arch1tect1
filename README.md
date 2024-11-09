@@ -22,7 +22,7 @@
 
 ### 🏆 My stats:
 
-![LeetCode](https://leetcard.jacoblin.cool/arch1tect?theme=light&font=Koulen)
+![LeetCode](https://leetcard.jacoblin.cool/arch1tect?theme=dark)
 
 ![Codewars](https://www.codewars.com/users/arch1tect1/badges/large)
 
