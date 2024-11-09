@@ -22,7 +22,7 @@
 
 ### 🏆 My stats:
 
-[![arch1tect's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=arch1tect&theme=dark)](https://leetcode.com/arch1tect/)
+[![arch1tect's LeetCode stats](https://leetcode.com/progress)](https://leetcode.com/arch1tect/)
 
 ![Codewars](https://www.codewars.com/users/arch1tect1/badges/large)
 
